@@ -1,6 +1,6 @@
-let hor = 0;
-let sec = 0;
-let min = 0;
+let hor = 00;
+let sec = 00;
+let min = 00;
 var interval;
 
 function start() {

@@ -16,8 +16,8 @@ button {
   color: white;
 }
 
-button:hover{
-    cursor: pointer;
+button:hover {
+  cursor: pointer;
 }
 .start-btn {
   background-color: green;
